@@ -89,7 +89,8 @@ Inspired by successful foreign models, our EV charging infrastructure aims to br
 - The system calculates range based on worst, average, and optimized scenarios, displayed on a map for the driver's convenience.
 
 ## Proposed Diagram of EV charging infrastructure
-![Project Logo](EVChargingDesign.jpeg =250x)
+![EV Charging Design](EVChargingDesign.jpeg ){:width="30px" height="20px"}
+
 
 
 
